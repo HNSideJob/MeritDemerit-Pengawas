@@ -1,0 +1,18 @@
+select {
+     width: 20%;
+     border-collapse: collapse;
+     border-spacing: 0;
+     border-radius: 12px 12px 0 0;
+     overflow: hidden;
+     box-shadow: 0 12px 5px rgba(32,32,32,.3)
+}
+
+table {
+    position: relative;
+    text-align: center;
+    padding:2px 2px 10px ;
+}
+
+th,td {
+    background-color: peachpuff;
+}
